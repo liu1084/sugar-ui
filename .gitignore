@@ -1,0 +1,11 @@
+.project
+.idea/
+static/node_modules/
+static/.bowerrc
+static/.csshintrc
+static/.htmlhintrc
+static/.jshintrc
+static/.bowerrc
+static/bower.json
+static/Gruntfile.js
+static/package.json
